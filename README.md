@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Michael Maina
 - 👀 I’m interested in all things tech
-- 🌱 I’m currently learning the C, Python, Ruby, HTML and CSS programming language
+- 🌱 I’m currently learning the C, Python, Ruby, HTML and CSS
 - 📫 How to reach me @michaelmaina02@gmail.com
 
 <!---
